@@ -1,0 +1,5 @@
+node_modules/
+src/assets/*
+src/outDir/*
+src/temp/*
+src/tests
